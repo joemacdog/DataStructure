@@ -19,8 +19,11 @@
 
 
 void addElement(int);
+
+//输出list的所有元素 -1表示失败 1表示成功
 int deleteElement(int);
-void printList();//输出list的所有元素 -1表示失败 1表示成功
+
+void printList();
 void initList();
 
 
